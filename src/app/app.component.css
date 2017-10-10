@@ -1,6 +1,7 @@
 h1 {
   color: red;
   font-size: 150%;
+<<<<<<< HEAD
 }
 body {
   background-color: #ccc;
@@ -8,4 +9,6 @@ body {
 
 nav {
   margin-bottom: 20px;
+=======
+>>>>>>> refs/remotes/origin/master
 }
